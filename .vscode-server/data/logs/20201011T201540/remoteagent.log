@@ -1,0 +1,41 @@
+[2020-10-11 20:15:40.393] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-10-11 20:15:40.394] [remoteagent] [info] Extension host agent started.
+[2020-10-11 20:15:40.775] [remoteagent] [info] [::ffff:172.26.128.1][89c0b13b][ExtensionHostConnection] New connection established.
+[2020-10-11 20:15:40.788] [remoteagent] [info] [::ffff:172.26.128.1][24325940][ManagementConnection] New connection established.
+[2020-10-11 20:15:41.732] [remoteagent] [info] [::ffff:172.26.128.1][89c0b13b][ExtensionHostConnection] <381> Launched Extension Host Process.
+[2020-10-11 20:16:28.194] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2020-10-11 20:16:30.239] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2020-10-11 20:16:31.218] [remoteagent] [info] Extracted extension to /home/joseve/.vscode-server/extensions/.esbenp.prettier-vscode-5.7.1: esbenp.prettier-vscode
+[2020-10-11 20:16:31.226] [remoteagent] [info] Renamed to /home/joseve/.vscode-server/extensions/esbenp.prettier-vscode-5.7.1
+[2020-10-11 20:16:31.229] [remoteagent] [info] Installation completed. esbenp.prettier-vscode
+[2020-10-11 20:16:31.347] [remoteagent] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-10-11 20:17:16.845] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2020-10-11 20:17:19.613] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver undefined
+[2020-10-11 20:17:41.154] [remoteagent] [info] Extracted extension to /home/joseve/.vscode-server/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-10-11 20:17:41.155] [remoteagent] [info] Renamed to /home/joseve/.vscode-server/extensions/ritwickdey.liveserver-5.6.1
+[2020-10-11 20:17:41.159] [remoteagent] [info] Installation completed. ritwickdey.liveserver
+[2020-10-11 20:17:41.276] [remoteagent] [info] Extensions installed successfully: ritwickdey.liveserver
+[2020-10-11 20:17:53.665] [remoteagent] [info] Installing extension: naumovs.color-highlight
+[2020-10-11 20:17:55.057] [remoteagent] [info] Downloaded extension: naumovs.color-highlight undefined
+[2020-10-11 20:17:55.730] [remoteagent] [info] Extracted extension to /home/joseve/.vscode-server/extensions/.naumovs.color-highlight-2.3.0: naumovs.color-highlight
+[2020-10-11 20:17:55.731] [remoteagent] [info] Renamed to /home/joseve/.vscode-server/extensions/naumovs.color-highlight-2.3.0
+[2020-10-11 20:17:55.737] [remoteagent] [info] Installation completed. naumovs.color-highlight
+[2020-10-11 20:17:55.853] [remoteagent] [info] Extensions installed successfully: naumovs.color-highlight
+[2020-10-11 20:18:14.988] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2020-10-11 20:18:16.921] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense undefined
+[2020-10-11 20:18:17.282] [remoteagent] [info] Extracted extension to /home/joseve/.vscode-server/extensions/.christian-kohler.path-intellisense-2.3.0: christian-kohler.path-intellisense
+[2020-10-11 20:18:17.284] [remoteagent] [info] Renamed to /home/joseve/.vscode-server/extensions/christian-kohler.path-intellisense-2.3.0
+[2020-10-11 20:18:17.286] [remoteagent] [info] Installation completed. christian-kohler.path-intellisense
+[2020-10-11 20:18:17.393] [remoteagent] [info] Extensions installed successfully: christian-kohler.path-intellisense
+[2020-10-11 20:25:44.501] [remoteagent] [info] [::ffff:172.26.128.1][24325940][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-11 20:25:45.666] [remoteagent] [info] [::ffff:172.26.128.1][89c0b13b][ExtensionHostConnection] <381> Extension Host Process exited with code: 0, signal: null.
+[2020-10-11 20:25:45.668] [remoteagent] [info] Last EH closed, waiting before shutting down
